@@ -6,67 +6,67 @@ const textoResultado = document.querySelector(".texto-resultado");
 
 const perguntas = [
     {
-        enunciado: "Pergunta 1",
+        enunciado: "entre comida japonesa e brasileira vc prefere?",
         alternativas: [
             {
-                texto: "Texto 1.1",
-                afirmacao: "Afirmação 1.1"
+                texto: "japones",
+                afirmacao: "então vc prefere um peixinho?"
             },
             {
-                texto: "Texto 1.2",
-                afirmacao: "Afirmação 1.2"
+                texto: "brasileiro",
+                afirmacao: "você prefere um churras?"
             }
         ]
     },
     {
-        enunciado: "Pergunta 2",
+        enunciado: "você prefere BK ou podrão?",
         alternativas: [
             {
-                texto: "Texto 2.1",
-                afirmacao: "Afirmação 2.1"
+                texto: "BK",
+                afirmacao: "huuuum amostradinho"
             },
             {
-                texto: "Texto 2.2",
-                afirmacao: "Afirmação 2.2"
+                texto: "podrão",
+                afirmacao: "2 x-tudo???"
             }
         ]
     },
     {
-        enunciado: "Pergunta 3",
+        enunciado: "refrigerante normal ou zero?",
         alternativas: [
             {
-                texto: "Texto 3.1",
-                afirmacao: "Afirmação 3.1"
+                texto: "normal",
+                afirmacao: "açucares concentrados..."
             },
             {
-                texto: "Texto 3.2",
-                afirmacao: "Afirmação 3.2"
+                texto: "zero",
+                afirmacao: "não quer açucar toma agua"
             }
         ]
     },
     {
-        enunciado: "Pergunta 4",
+        enunciado: "vocẽ prefere gordura animal ou vegetal",
         alternativas: [
             {
-                texto: "Texto 4.1",
-                afirmacao: "Afirmação 4.1"
+                texto: "animal",
+                afirmacao: "ok você e normal"
             },
             {
-                texto: "Texto 4.2",
-                afirmacao: "Afirmação 4.2"
+                texto: "vegetal",
+                afirmacao: "você e o animal da historia"
             }
         ]
     },
     {
-        enunciado: "Pergunta 5",
+        enunciado: "você prefere pão normal ou integral?",
         alternativas: [
             {
-                texto: "Texto 5.1",
-                afirmacao: "Afirmação 5.1"
+                texto: "normal",
+                afirmacao: "ok, normal"
             },
             {
-                texto: "Texto 5.2",
-                afirmacao: "Afirmação 5.2"
+                texto: "integral",
+                afirmacao: "ok, com fome come ate pedra"
             }
         ]
     },
